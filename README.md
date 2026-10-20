@@ -15,6 +15,6 @@
 壁をクリックしてアルミサッシを置くアドオン。内法と壁厚に合わせて伸び縮みし、開口も自動で開きます。
 Free Blender add-on for Japanese aluminum windows.
 
-<p align="center"> <img src="docs/Door_Window_Generator_demo.gif" width="520" alt="Door_Window_Generator demo" /> </p> <p align="center"> <img src="https://img.shields.io/github/stars/cera3d/Door_Window_Generator_demo?style=flat" /> <img src="https://img.shields.io/github/last-commit/cera3d/Door_Window_Generator_demo?style=flat" /> </p>
+<p align="center"> <img src="docs/Door_Window_Generator_demo.gif" width="520" alt="Door_Window_Generator demo" /> </p> <p align="center"> <img src="https://img.shields.io/github/stars/cera3d/Door_Window_Generator?style=flat" /> <img src="https://img.shields.io/github/last-commit/cera3d/Door_Window_Generator?style=flat" /> </p>
 
 <p align="center"><i>ご質問・不具合報告はリポジトリのIssueかXまでお気軽にどうぞ。</i></p>
