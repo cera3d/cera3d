@@ -9,4 +9,15 @@
 和瓦屋根の自動生成アドオン。屋根面や棟ラインを指定するだけで、瓦を自動配置。
 
 <p align="center"> <img src="docs/wafuroofset_demo.gif" width="520" alt="WafuRoofSet demo" /> </p> <p align="center"> <img src="https://img.shields.io/github/stars/cera3d/WafuRoofSet?style=flat" /> <img src="https://img.shields.io/github/last-commit/cera3d/WafuRoofSet?style=flat" /> </p>
+
+### [Door Window Generator](https://github.com/cera3d/Door_Window_Generator)
+
+壁をクリックしてアルミサッシを置くアドオン。内法と壁厚に合わせて伸び縮みし、開口も自動で開きます。
+Free Blender add-on for Japanese aluminum windows.
+
+https://github.com/user-attachments/assets/120e2540-0337-40d8-af92-3c5eeb2817f7
+
+![stars](https://img.shields.io/github/stars/cera3d/Door_Window_Generator?style=flat-square)
+![last commit](https://img.shields.io/github/last-commit/cera3d/Door_Window_Generator?style=flat-square)
+
 <p align="center"><i>ご質問・不具合報告はリポジトリのIssueかXまでお気軽にどうぞ。</i></p>
